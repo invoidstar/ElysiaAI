@@ -1,3 +1,4 @@
+##### 代码提交方法
 ### 1 添加文件
 添加所有文件
 git add .
@@ -12,5 +13,3 @@ git commit -m "Initial commit"
 git push -u origin main
 如果 GitHub 默认分支是 master，请使用：
 git push -u origin master
-
-### 4 
